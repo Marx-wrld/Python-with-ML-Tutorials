@@ -1,0 +1,100 @@
+START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSES*
+1/7/2016/ 2:11 PM,1/7/2016/ 4:11 PM,Business,Detroit,Fort Perce,5.1,Meal/Enterprise
+6/4/2016/1:15 PM,6/4/2016/4:15 PM,Business,Fort Perce,West Palm,5,Meal/Enterprise
+12/8/2016/ 3:11 PM,12/8/2016/ 5:11 PM,Business,Jamaica,New York,4.8,Meal/Enterprise
+3/9/2016/ 6:17 PM,3/9/2016/ 8:17 PM,Business,Fort Perce,Fort Perce,4.7,Meal/Enterprise
+4/8/2016/ 12:01 PM,4/8/2016/ 6:01 PM,Business,Fort Perce,Fort Perce,63.7,Meal/Enterprise
+28/2/2016/ 7:16 PM,28/2/2016/ 7:16 PM,Business,New York,Queens County,7.3,Meal/Enterprise
+6/6/2016/ 9:11 PM,6/6/2016/ 9:11 PM,Business,Fort Perce,Fort Perce,8.1,Meal/Enterprise
+13/4/2016/ 10:31 PM,13/4/2016/ 10:31 PM,Business,Downtown,Gultton,9.3,Meal/Enterprise
+16/2/2016/ 8:10 PM,16/2/2016/ 8:10 PM,Business,Fort Perce,Fort Perce,6.2,Meal/Enterprise
+11/12/2016/ 9:56 AM,11/12/2016/ 9:56 AM,Business,Houston,Fort Perce,5.5,Meal/Enterprise
+17/10/2016/ 4:10 PM,17/10/2016/ 4:10 PM,Business,Fort Perce,Houston,4.1,Meal/Enterprise
+29/1/2016/ 5:14 PM,29/1/2016/ 5:14 PM,Business,Cary,Durham,21.3,Meal/Enterprise
+18/9/2016/ 2:27 PM,18/9/2016/ 2:27 PM,Business,Durham,Cary,23.6,Meal/Enterprise
+17/4/2016/ 6:29 PM,17/4/2016/ 6:29 PM,Business,Fort Perce,Fort Perce,53.2,Customer visit
+19/2/2016/ 8:41 AM,19/2/2016/ 8:41 AM,Business,Riverside,Alexander city,7.1,Meal/Enterprise
+4/1/2016/ 11:52 AM,4/1/2016/ 11:52 AM,Business,Los angeles,Athens,8.8,Meal/Enterprise
+8/3/2016/ 3:16 PM,8/3/2016/ 3:16 PM,Business,Fort Perce,Fort Perce,9.7,Meal/Enterprise
+4/7/2016 /4:01 PM,4/7/2016 /4:01 PM,Business,Salt lake city,Peoria,4.6,Meal/Enterprise
+2/6/2016/ 6:18 PM,2/6/2016/ 6:18 PM,Business,New port,Fort Perce,5.8,Meal/Enterprise
+4/10/2016/  1:09 PM,4/10/2016/  1:09 PM,Business,Newport beach,Fort Perce,35.3,Meal/Enterprise
+6/7/2016/ 5:11 PM,6/7/2016/ 5:11 PM,Business,Beverly hills,Tacoma,12.4,Meal/Enterprise
+30/11/2016/  11:00 PM,30/11/2016/  11:00 PM,Business,Vallejo,Fort Perce,45.8,Meal/Enterprise
+16/2/2016/ 8:10 PM,16/2/2016/ 8:10 PM,Business,Fort Perce,Phoenix,7.4,Meal/Enterprise
+11/12/2016/ 9:56 AM,11/12/2016/ 9:56 AM,Business,San antonio,New Orleans,8.3,Meal/Enterprise
+17/10/2016/ 4:10 PM,17/10/2016/ 4:10 PM,Business,Harrison,Fort Perce,3.5,Meal/Enterprise
+29/1/2016/ 5:14 PM,29/1/2016/ 5:14 PM,Business,New York,Miami,4.2,Meal/Enterprise
+18/9/2016/ 2:27 PM,18/9/2016/ 2:27 PM,Business,Fort Perce,Fort Perce,5.6,Meal/Enterprise
+17/4/2016/ 6:29 PM,17/4/2016/ 6:29 PM,Business,Fort Perce,Fort Perce,9,Meal/Enterprise
+19/2/2016/ 8:41 AM,19/2/2016/ 8:41 AM,Business,Stuttgart,San jose,3.9,Meal/Enterprise
+4/1/2016/ 11:52 AM,4/1/2016/ 11:52 AM,Business,Fort Perce,Fort Perce,10.9,Meal/Enterprise
+8/3/2016/ 3:16 PM,8/3/2016/ 3:16 PM,Business,Fort Perce,Fort Perce,42.4,Meal/Enterprise
+4/7/2016 /4:01 PM,4/7/2016 /4:01 PM,Business,Daly city,Anchorage,21.7,Meal/Enterprise
+2/6/2016/ 6:18 PM,2/6/2016/ 6:18 PM,Business,Seattle,Fort Perce,30.5,Meal/Enterprise
+17/10/2016/ 4:10 PM,17/10/2016/ 4:10 PM,Business,Fort Perce,Virginia beach,76.5,Meal/Enterprise
+29/1/2016/ 5:14 PM,29/1/2016/ 5:14 PM,Business,New York,Fort Perce,25.9,Meal/Enterprise
+18/9/2016/ 2:27 PM,18/9/2016/ 2:27 PM,Business,Fort Perce,Minneapolis,60.5,Meal/Enterprise
+17/4/2016/ 6:29 PM,17/4/2016/ 6:29 PM,Business,Madison,Fort Perce,56.4,Meal/Enterprise
+19/2/2016/ 8:41 AM,19/2/2016/ 8:41 AM,Business,Fort Perce,Boulder,24.5,Meal/Enterprise
+4/1/2016/ 11:52 AM,4/1/2016/ 11:52 AM,Business,Fort Perce,Fort Perce,27.8,Meal/Enterprise
+8/3/2016/ 3:16 PM,8/3/2016/ 3:16 PM,Business,St. Louis,Birmingham,19.9,Meal/Enterprise
+4/7/2016 /4:01 PM,4/7/2016 /4:01 PM,Business,Fort Perce,New Orleans,9.5,Meal/Enterprise
+2/6/2016/ 6:18 PM,2/6/2016/ 6:18 PM,Business,Savannah,Fort Perce,7.8,Meal/Enterprise
+4/10/2016/  1:09 PM,4/10/2016/  1:09 PM,Business,Fort Perce,Auburn,80.5,Meal/Enterprise
+6/7/2016/ 5:11 PM,6/7/2016/ 5:11 PM,Business,Nashville,Charlotte,76.4,Meal/Enterprise
+30/11/2016/  11:00 PM,30/11/2016/  11:00 PM,Business,Fort Perce,Fort Perce,65.3,Meal/Enterprise
+6/4/2016/1:15 PM,6/4/2016/1:15 PM,Business,Baltimore,Anniston,4.9,Meal/Enterprise
+12/8/2016/ 3:11 PM,12/8/2016/ 3:11 PM,Business,Fort Perce,Fort Perce,7.5,Meal/Enterprise
+3/9/2016/ 6:17 PM,3/9/2016/ 6:17 PM,Business,Fort Perce,Dayton,17.5,Meal/Enterprise
+4/8/2016/ 12:01 PM,4/8/2016/ 12:01 PM,Business,New York,Fort Perce,16.5,Meal/Enterprise
+28/2/2016/ 7:16 PM,28/2/2016/ 7:16 PM,Business,Fort Perce,Phoenix,5.1,Meal/Enterprise
+6/6/2016/ 9:11 PM,6/6/2016/ 9:11 PM,Business,Fort Perce,Fort Perce,6.1,Meal/Enterprise
+13/4/2016/ 10:31 PM,13/4/2016/ 10:31 PM,Business,Fort Perce,Fort Perce,5.6,Meal/Enterprise
+16/2/2016/ 8:10 PM,16/2/2016/ 8:10 PM,Business,Pittsburgh,Phenix city,15.5,Meal/Enterprise
+11/12/2016/ 9:56 AM,11/12/2016/ 9:56 AM,Business,Fort Perce,Fort Perce,18.3,Meal/Enterprise
+17/10/2016/ 4:10 PM,17/10/2016/ 4:10 PM,Business,Fort Perce,Anniston,56.8,Meal/Enterprise
+29/1/2016/ 5:14 PM,29/1/2016/ 5:14 PM,Business,Austin,Fort Perce,65.9,Meal/Enterprise
+18/9/2016/ 2:27 PM,18/9/2016/ 2:27 PM,Business,Fort Perce,Illinois,76.9,Meal/Enterprise
+17/4/2016/ 6:29 PM,17/4/2016/ 6:29 PM,Business,Cleveland,Fort Perce,70.7,Meal/Enterprise
+19/2/2016/ 8:41 AM,19/2/2016/ 8:41 AM,Business,Fort Perce,Auburn,23.8,Meal/Enterprise
+4/1/2016/ 11:52 AM,4/1/2016/ 11:52 AM,Business,New York,Fort Perce,67.8,Meal/Enterprise
+8/3/2016/ 3:16 PM,8/3/2016/ 3:16 PM,Business,Fort Perce,Fort Perce,44.9,Meal/Enterprise
+4/10/2016/  11:09 PM,4/10/2016/  11:09 PM,Business,Fort Perce,Alabama,54.8,Meal/Enterprise
+6/7/2016/ 21:11 PM,6/7/2016/ 21:11 PM,Business,New York,Fort Perce,90.9,Meal/Enterprise
+30/11/2016/  11:00 PM,30/11/2016/  11:00 PM,Business,Fort Perce,The Bronx,45.7,Meal/Enterprise
+1/1/2016/21:11 PM,1/1/2016/21:11 PM,Business,Fort Perce,Fort Perce,56.9,Meal/Enterprise
+1/2/2016 /1:25 PM,1/2/2016 /1:25 PM,Business,Portsville,Alexander city,5.1,Meal/Enterprise
+1/2/2016 /20:25 PM,1/2/2016 /20:25 PM,Business,Fort Perce,Fort Perce,13.8,Meal/Enterprise
+24/5/2016 /17:31 PM,24/5/2016 /17:31 PM,Business,Jacksonville,Queens County,90.7,Meal/Enterprise
+1/6/2016 /14:42 PM,1/6/2016 /14:42 PM,Business,Fort Perce,Hartford county,19.5,Meal/Enterprise
+4/7/2016 /4:01 PM,4/7/2016 /4:01 PM,Business,Portland,Fort Perce,45.7,Meal/Enterprise
+2/6/2016/ 6:18 PM,2/6/2016/ 6:18 PM,Business,Oakland,Birmingham,34.5,Meal/Enterprise
+4/10/2016/  1:09 PM,4/10/2016/  1:09 PM,Business,Chicago,Fort Perce,26.8,Meal/Enterprise
+6/7/2016/ 5:11 PM,6/7/2016/ 5:11 PM,Business,New York,Fort Perce,12.9,Meal/Enterprise
+30/11/2016/  11:00 PM,30/11/2016/  11:00 PM,Business,Fort Perce,Tampa,31.9,Meal/Enterprise
+16/2/2016/ 8:10 PM,16/2/2016/ 8:10 PM,Business,Fort Perce,Fort Perce,65.7,Meal/Enterprise
+11/12/2016/ 9:56 AM,11/12/2016/ 9:56 AM,Business,Denver,Fort Perce,23.8,Meal/Enterprise
+17/10/2016/ 4:10 PM,17/10/2016/ 4:10 PM,Business,Fort Perce,Tacoma,27.9,Meal/Enterprise
+29/1/2016/ 5:14 PM,29/1/2016/ 5:14 PM,Business,Fort Perce,Fort Perce,36,Meal/Enterprise
+18/9/2016/ 2:27 PM,18/9/2016/ 2:27 PM,Business,New York,Fort Perce,78.9,Meal/Enterprise
+17/4/2016/ 6:29 PM,17/4/2016/ 6:29 PM,Business,Fort Perce,Long beach,16.5,Meal/Enterprise
+19/2/2016/ 8:41 AM,19/2/2016/ 8:41 AM,Business,Raleigh,Fort Perce,13.8,Meal/Enterprise
+4/1/2016/ 11:52 AM,4/1/2016/ 11:52 AM,Business,Indianapolis,Cary,12.9,Meal/Enterprise
+8/3/2016/ 3:16 PM,8/3/2016/ 3:16 PM,Business,Fort Perce,Atmore,53.9,Meal/Enterprise
+4/7/2016 /4:01 PM,4/7/2016 /4:01 PM,Business,Manchester,Charleston,76.6,Meal/Enterprise
+2/6/2016/ 6:18 PM,2/6/2016/ 6:18 PM,Business,Fort Perce,Fort Perce,39.9,Meal/Enterprise
+17/10/2016/ 4:10 PM,17/10/2016/ 4:10 PM,Business,Philadelphia,Fort Perce,53.7,Meal/Enterprise
+4/8/2016/ 12:01 PM,4/8/2016/ 12:01 PM,Business,Fort Perce,Cincinnati,51.8,Meal/Enterprise
+28/2/2016/ 7:16 PM,28/2/2016/ 7:16 PM,Business,Boston,Fort Perce,45.7,Meal/Enterprise
+6/6/2016/ 9:11 PM,6/6/2016/ 9:11 PM,Business,Fort Perce,Fort Perce,22.7,Meal/Enterprise
+13/4/2016/ 10:31 PM,13/4/2016/ 10:31 PM,Business,New York,Fort Perce,39.7,Meal/Enterprise
+16/2/2016/ 8:10 PM,16/2/2016/ 8:10 PM,Business,Fort Perce,Stockton,38.6,Meeting
+11/12/2016/ 9:56 AM,11/12/2016/ 9:56 AM,Business,San marino,Fort Perce,62.9,Meeting
+17/10/2016/ 4:10 PM,17/10/2016/ 4:10 PM,Business,Fort Perce,Louisville,56.3,Meeting
+29/1/2016/ 5:14 PM,29/1/2016/ 5:14 PM,Business,San franscisco,Fort Perce,33.6,Customer visit
+18/9/2016/ 2:27 PM,18/9/2016/ 2:27 PM,Business,Fort Perce,Fort Perce,31.7,Customer visit
+17/4/2016/ 6:29 PM,17/4/2016/ 6:29 PM,Business,San diego,Providence,5.7,Meal/Enterprise
+19/2/2016/ 8:41 AM,19/2/2016/ 8:41 AM,Business,Fort Perce,Fort Perce,7.2,Meal/Enterprise
+4/1/2016/ 11:52 AM,4/1/2016/ 11:52 AM,Business,Winston-Salem,Fort Perce,8.1,Meal/Enterprise
+18/9/2016/ 12.30 PM,18/9/2016/ 12.30 PM,Business,New York,Arlington,6.9,Meal/Enterprise
